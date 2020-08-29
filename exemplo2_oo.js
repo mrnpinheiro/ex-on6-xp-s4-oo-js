@@ -15,7 +15,7 @@ console.log(reprograma.iniciada)
 
 console.log('Notação de Colchetes')
 
-console.log(reprograma['curso'])
+console.log(reprograma.['curso'])
 console.log(reprograma.['turma'])
 console.log(reprograma.['modelo'])
 console.log(reprograma.['iniciada'])
